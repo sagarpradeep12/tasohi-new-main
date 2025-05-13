@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Tasohi New</title>
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/base.css">
+  <link rel="stylesheet" href="assets/custom.css">
+  
+  </head>
+  
+	 	
+<body>
+	<section class="makes-cosmical section1 section-space" id="horizontal-scoll">
+		<div class="containers">
+		<div class="top-head text-center">
+			<h2>What Makes Cosmical <br> Renew Unique</h2>
+			<p>Unlock the Power of Deep Hydration</p>
+		</div>
+		<div class="horizontal-scoll-wrapper">
+		<div class="rows horizontal">
+			<div class="col-sm-4">
+				<div class="bx card">
+					<div class="info">
+						<h4>3% CutiGuard CLR™ Technology</h4>	
+						<p>Scientifically advanced formula that helps boost collagen and restore skin barrier function.</p>
+					</div>
+					<div class="image">
+						<img src="assets/com-img.jpg" class="img-fluid" />
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="bx card">
+					<div class="info">
+						<h4>3% CutiGuard CLR™ Technology</h4>	
+						<p>Scientifically advanced formula that helps boost collagen and restore skin barrier function.</p>
+					</div>
+					<div class="image">
+						<img src="assets/com-img.jpg" class="img-fluid" />
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="bx card">
+					<div class="info">
+						<h4>3% CutiGuard CLR™ Technology</h4>	
+						<p>Scientifically advanced formula that helps boost collagen and restore skin barrier function.</p>
+					</div>
+					<div class="image">
+						<img src="assets/com-img.jpg" class="img-fluid" />
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="bx card">
+					<div class="info">
+						<h4>3% CutiGuard CLR™ Technology</h4>	
+						<p>Scientifically advanced formula that helps boost collagen and restore skin barrier function.</p>
+					</div>
+					<div class="image">
+						<img src="assets/com-img.jpg" class="img-fluid" />
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="bx card">
+					<div class="info">
+						<h4>3% CutiGuard CLR™ Technology</h4>	
+						<p>Scientifically advanced formula that helps boost collagen and restore skin barrier function.</p>
+					</div>
+					<div class="image">
+						<img src="assets/com-img.jpg" class="img-fluid" />
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="bx card">
+					<div class="info">
+						<h4>3% CutiGuard CLR™ Technology</h4>	
+						<p>Scientifically advanced formula that helps boost collagen and restore skin barrier function.</p>
+					</div>
+					<div class="image">
+						<img src="assets/com-img.jpg" class="img-fluid" />
+					</div>
+				</div>
+			</div>
+		</div>
+		</div>
+		</div>
+	</section>
+	
+	<section class="ingredients-skin section2 section-space" id="">	
+		<div class="container">
+			<div class="top-head text-center">
+				<h2>Ingredients Your Skin Will Love</h2>
+			</div>
+			<div class="row-wrap">
+			<div class="row">
+			<div class="col-sm-4 left">
+				<div class="bx lsp one">
+					<h4>Jojoba Seed Oil</h4>
+					<p>A clinically proven active that protects and strengthens skin barrier function fighting environmental stress and signs of aging.</p>
+				</div>
+				<div class="bx two">
+					<h4>CutiGuard CLR™ (3%)</h4>
+					<p>A clinically proven active that protects and strengthens skin barrier function fighting environmental stress and signs of aging.</p>
+				</div>
+				<div class="bx lsp three">
+					<h4>Vitamin E</h4>
+					<p>A clinically proven active that protects and strengthens skin barrier function fighting environmental stress and signs of aging.</p>
+				</div>
+			</div>
+			
+			<div class="col-sm-4">
+				<div class="bx five">
+					<h4>Kakadu Plum Fruit Extract</h4>
+					<p>A clinically proven active that protects and strengthens skin barrier function fighting environmental stress and signs of aging.</p>
+				</div>
+				<div class="bx bx-image text-center six">
+					<img src="assets/ingredients-bx-cover.png" class="img-fluid cover" />
+					<img src="assets/ingredients-bx-bg.png" class="img-fluid ingredients-bg" />				
+					<img src="assets/ingredients-bx-img.png" class="img-fluid ingredients-box" />				
+				</div>
+				<div class="bx svn">
+				<h4>Red Algae</h4>
+				<p>A clinically proven active that protects and strengthens skin barrier function fighting environmental stress and signs of aging.</p>
+				</div>
+			</div>
+			
+			<div class="col-sm-4 right">
+				<div class="bx lsp eight">
+					<h4>Rice Extract</h4>
+					<p>A clinically proven active that protects and strengthens skin barrier function fighting environmental stress and signs of aging.</p>
+				</div>
+				<div class="bx nine">
+					<h4>Lactococcus Ferment Lysate</h4>
+					<p>A clinically proven active that protects and strengthens skin barrier function fighting environmental stress and signs of aging.</p>
+				</div>
+				<div class="bx lsp ten">
+					<h4>Niacinamide</h4>
+					<p>A clinically proven active that protects and strengthens skin barrier function fighting environmental stress and signs of aging.</p>
+				</div>
+			</div>
+			</div>
+			</div>
+		</div>
+	</section>
+	
+	<section class="feat-slider section3 section-space">
+		<div class="container">
+		<div class="rows">
+			<div class="image"><img src="assets/feat1.png" class="img-fluid featimg" /></div>
+			<div class="image"><img src="assets/feat2.png" class="img-fluid featimg" /></div>
+			<div class="image"><img src="assets/feat3.png" class="img-fluid featimg" /></div>
+			<div class="image"><img src="assets/feat4.png" class="img-fluid featimg" /></div>
+			<div class="image"><img src="assets/feat5.png" class="img-fluid featimg" /></div>
+		</div>
+		</div>
+	</section>
+	
+	<section class="cosmical-renew section4 section-space">
+		<div class="container">
+		<div class="top-head text-center">
+			<h2>Visible Improvements with <br> Cosmical Renew</h2>
+			<p>Results After 30 Days of Use</p>
+		</div>
+		<div class="row">
+			<div class="col-sm-3">
+			<div class="bx text-center">
+				<div class="progressbar" data-animate="false">
+					<div class="circle" data-percent="85">
+						<div></div>						
+					</div>
+				</div>
+				<p>Firms, softens and refines skin for that youthful bounce you’ll feel and see.</p>
+			</div>
+			</div>
+			<div class="col-sm-3">
+			<div class="bx text-center">
+				<div class="progressbar" data-animate="false">
+					<div class="circle" data-percent="70">
+						<div></div>						
+					</div>
+				</div>
+				<p>Boost in Deep Hydration. Say hello to dewy, plump skin all day long.</p>
+			</div>
+			</div>
+			<div class="col-sm-3">
+			<div class="bx text-center">
+				<div class="progressbar" data-animate="false">
+					<div class="circle" data-percent="66">
+						<div></div>						
+					</div>
+				</div>
+				<p>Brightens dull, tired skin with powerful botanicals like Kakadu Plum.</p>
+			</div>
+			</div>
+			<div class="col-sm-3">
+			<div class="bx text-center">
+				<div class="progressbar" data-animate="false">
+					<div class="circle" data-percent="68">
+						<div></div>						
+					</div>
+				</div>
+				<p>Stronger Skin Barrier by protecting against pollution, stress and premature aging.</p>
+			</div>
+			</div>
+		</div>
+		</div>
+	</section>
+
+	<section class="cosmical-renew-sec section5 section-space">
+		<div class="container">
+		<div class="image"><img src="assets/cosmical-renew-img.jpg" class="img-fluid" /></div>
+		<div class="top-head pos">
+			<h2>Cosmical Renew</h2>
+			<p class="o">Hydration & Glow | Collagen Boost | 3% CutiGuard CLR™</p>
+			<p class="t">Infused with Jojoba Oil, Kakudau Plum , Rice Extract </p>
+			<div class="anc-btn"><a href="#">Shop Today</a></div>
+		</div>
+		<div class="btm-content pos">
+			<img src="assets/cosmical-renew-bx1.png" class="img-fluid one" />
+			<img src="assets/cosmical-renew-bx2.png" class="img-fluid two" />
+		</div>
+		</div>
+	</section>
+
+	<section class="simple-steps section6 section-space">
+		<div class="container">
+			<div class="top-head text-center">
+				<h2>Reveal Your Radiance in <br> 4 Simple Steps </h2>				
+			</div>
+			
+			<div class="row">
+				<div class="col-sm-3">
+				<div class="box">
+				
+				<div class="image"><label>Step 1</label><img src="assets/step1-img.jpg" class="round-img img-fluid" alt="">
+				</div>  
+				<div class="info">
+				  <h3>Cleanse</h3>     
+				  <p>Start with a clean slate. Gently cleanse and pat your skin dry to prepare it for deep nourishment.</p>                
+				</div> 
+				
+				</div>
+				</div>
+				<div class="col-sm-3">
+				<div class="box">
+				<a href="#">
+				<div class="image"><label>Step 2</label><img src="assets/step2-img.jpg" class="round-img img-fluid" alt=""></div>  
+				<div class="info">
+				  <h3>Apply</h3>     
+				  <p>Take a small amount of Cosmical Renew and apply it to your face and neck, steering clear of the delicate eye area.</p>                  
+				</div> 
+				</a>
+				</div>
+				</div>
+				<div class="col-sm-3">
+				<div class="box">
+				<a href="#">
+				<div class="image"><label>Step 3</label><img src="assets/step3-img.jpg" class="round-img img-fluid" alt=""></div>  
+				<div class="info">
+				  <h3>Massage </h3>     
+				  <p>Use your fingertips to massage in upward circular motions until fully absorbed. Use daily for refreshed, radiant skin.</p>                    
+				</div> 
+				</a>
+				</div>
+				</div>
+				<div class="col-sm-3">
+				<div class="box">
+				<a href="#">
+				<div class="image"><label>Step 4</label><img src="assets/step4-img.jpg" class="round-img img-fluid" alt=""></div>  
+				<div class="info">
+				  <h3>Reveal the Glow</h3>     
+				  <p>Because everyone is beautiful — and with Cosmical Renew, that beauty rises to the surface, luminous and effortless.</p>                     
+				</div>  
+				</a>
+				</div>
+				</div>
+			</div>
+			
+		</div>
+	 </section>
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.2/circle-progress.min.js"></script>
+	
+	<script>
+		gsap.registerPlugin(ScrollTrigger);
+
+		let horizontalSection = document.querySelector('.horizontal');
+		//console.log(horizontalSection.scrollWidth);
+
+		gsap.to('.horizontal', {
+		  x: () => horizontalSection.scrollWidth * -1,
+		  xPercent: 100,
+		  scrollTrigger: {
+			trigger: '.horizontal',
+			start: 'center center',
+			end: '+=2000px',
+			pin: '#horizontal-scoll',
+			scrub: true,
+			invalidateOnRefresh: true
+		  }
+		});
+		
+
+	   $(document).ready(function ($) {
+		function animateElements() {
+			$('.progressbar').each(function () {
+				var elementPos = $(this).offset().top;
+				var topOfWindow = $(window).scrollTop();
+				var percent = $(this).find('.circle').attr('data-percent');
+				var percentage = parseInt(percent, 10) / parseInt(100, 10);
+				var animate = $(this).data('animate');
+				if (elementPos < topOfWindow + $(window).height() - 30 && !animate) {
+					$(this).data('animate', true);
+					$(this).find('.circle').circleProgress({
+						startAngle: -Math.PI / 2,
+						value: percent / 100,
+						size: 170,
+						thickness: 10,
+						emptyFill: "rgba(255,239,239, 1)",
+						fill: {
+							color: '#b71b0c'							
+						}
+					}).on('circle-animation-progress', function (event, progress, stepValue) {
+						$(this).find('div').text((stepValue*100).toFixed(0) + "%");
+					}).stop();
+				}
+			});
+		}
+
+		// Show animated elements
+		animateElements();
+		$(window).scroll(animateElements);
+		
+		
+		
+
+	}); //end document ready function
+	</script>
+	
+</body>
+</html>

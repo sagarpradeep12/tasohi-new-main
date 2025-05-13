@@ -1,0 +1,532 @@
+body {
+  font-family: "Geist", sans-serif;  
+  color: #212121;  
+}
+p {
+	letter-spacing: -0.5px;
+}
+section.section-space {
+    padding: 60px 0;
+}
+
+.top-head h2{
+	font-size: 56px;
+	font-family: "Geist", sans-serif;
+	line-height: 120%;
+	color: #212121;
+	letter-spacing: -3px;
+}
+
+.top-head p {
+    font-size: 20px;
+    font-family: "Geist", sans-serif;
+}
+
+section.makes-cosmical {
+	padding: 120px 0 120px;
+}
+
+section.makes-cosmical .bx {
+    border: 1px solid #F5F5F5;
+    padding: 15px;
+    border-radius: 14px;
+    text-align: left;
+    text-decoration: none;
+    display: block;
+    background-color: #fff;
+    margin: 0 10px;
+    margin-top: 50px;
+}
+
+section.makes-cosmical .bx h4 {
+    font-size: 20px;
+    font-family: 'Geist';
+    font-weight: 500;
+    margin: 0 0 5px 0;
+}
+
+section.makes-cosmical .bx .image img {
+    border-radius: 14px;
+}
+
+section.ingredients-skin {
+    padding: 180px 0 100px;	
+    background: url(../assets/ingredients-section-bg.png);
+	background-color: #f7f7f7;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom -100px;
+	transition: .3s ease;
+}
+
+section.ingredients-skin .bx {
+    padding: 10px 50px;
+	transition: .3s ease;
+}
+
+section.ingredients-skin .bx h4 {
+    font-size: 16px;
+    font-family: 'Geist';
+    font-weight: 500;
+    margin: 0 0 5px 0;
+}
+
+section.ingredients-skin .bx p {
+    font-size: 13px;
+}
+
+section.ingredients-skin .row-wrap {
+    max-width: 1100px;
+    margin: auto;
+    padding: 0px 0;
+}
+
+section.ingredients-skin .row {
+    align-items: center;
+}
+section.ingredients-skin .left .bx {
+    position: relative;
+    left: -30px;
+}
+section.ingredients-skin .right .bx {
+    position: relative;
+    right: -30px;
+}
+section.ingredients-skin .left .bx.lsp {
+    position: relative;
+    left: 30px;
+}
+section.ingredients-skin .right .bx.lsp {
+    right: 30px;
+}
+section.ingredients-skin .bx.bx-image {
+	padding: 10px;
+	position: relative;
+}
+
+section.ingredients-skin .bx.bx-image img.cover {
+    margin-bottom: -40px;
+    position: relative;
+    width: 95%;
+    z-index: 99;
+	transition: .3s ease;
+}
+
+section.ingredients-skin .bx.bx-image img.ingredients-box {
+    position: relative;
+    margin-top: -50px;
+	transition: .3s ease;
+}
+
+section.ingredients-skin .bx.bx-image img.ingredients-bg {
+    position: absolute;
+    left: -50px;
+    bottom: 0;
+    width: 100%;
+    min-width: 400px;
+	transition: .3s ease;
+}
+
+section.ingredients-skin .top-head h2 {
+	position: relative;
+	top: 0;
+    transition: top 1s ease;
+	opacity: .7;
+}
+section.ingredients-skin .container:hover .top-head h2 {
+    transition: top 0.7s ease;
+    top: -75px;
+	opacity: 1;
+}
+
+section.ingredients-skin .container:hover .bx.five {
+    transition: top 0.7s ease;
+    top: -70px;
+    opacity: 1;
+}
+
+section.ingredients-skin .container .bx {
+    position: relative;
+    top: auto;
+    position: relative;
+    top: 0;
+    transition: top 1s ease;
+    opacity: .7;
+	text-align: left;
+}
+
+section.ingredients-skin .left .bx.one {
+    position: relative;
+    top: 0;
+    transition: top 1s ease,left 1s ease;
+}
+
+section.ingredients-skin .container:hover .bx.one {
+    position: relative;
+    transition: top 1 ease, left 1s ease;
+    top: -75px;
+    left: -30px;
+}
+
+section.ingredients-skin .left .bx.two {
+    position: relative;
+    top: 0;
+    transition: top 1s ease,left 1s ease;
+}
+
+section.ingredients-skin .container:hover .bx.two {
+    position: relative;
+    transition: top 1 ease, left 1s ease;
+    top: -85px;
+    left: -65px;
+}
+
+section.ingredients-skin .left .bx.three {
+    position: relative;
+    top: 0;
+    transition: top 1s ease,left 1s ease;
+}
+
+section.ingredients-skin .container:hover .bx.three {
+    position: relative;
+    transition: top 1 ease, left 1s ease;
+    top: -75px;
+    left: -30px;
+}
+
+
+section.ingredients-skin .bx.bx-image img.cover {
+    position: relative;
+    top: 0;
+    transition: top 1s ease;
+}
+
+section.ingredients-skin .container:hover .bx.bx-image img.cover {
+    position: relative;
+    top: 0;
+    transition: top .6s ease;
+    top: -95px;
+}
+
+section.ingredients-skin .bx.bx-image img.ingredients-bg {
+    position: absolute;
+    top: -30px;
+    transition: top 1s ease;
+}
+
+section.ingredients-skin .container:hover .bx.bx-image img.ingredients-bg {
+    position: absolute;
+    top: -60px;
+    transition: top .6s ease;
+}
+
+section.ingredients-skin .bx.bx-image img.ingredients-box {
+    position: relative;
+    bottom: 0px;
+    transition: bottom 1s ease;
+}
+
+section.ingredients-skin .container:hover .bx.bx-image img.ingredients-box {    
+    bottom: 15px;
+    transition: bottom .6s ease;
+}
+
+section.ingredients-skin .left .bx.svn {
+    position: relative;
+    top: 0;
+    transition: top 1s ease,left 1s ease;
+}
+
+section.ingredients-skin .container:hover .bx.svn {
+    position: relative;
+    transition: top 1 ease, left 1s ease;
+    top: -15px;
+}
+
+section.ingredients-skin .right .bx.eight {
+    position: relative;
+    top: 0;
+    transition: top 1s ease, right 1s ease;
+}
+
+section.ingredients-skin .container:hover .bx.eight {
+    position: relative;
+    transition: top 1 ease, right 1s ease;
+    top: -75px;
+    right: -30px;
+}
+
+section.ingredients-skin .right .bx.nine {
+    position: relative;
+    top: 0;
+    transition: top 1s ease, right 1s ease;
+}
+
+section.ingredients-skin .container:hover .bx.nine {
+    position: relative;
+    transition: top 1 ease, right 1s ease;
+    top: -85px;
+    right: -65px;
+}
+
+section.ingredients-skin .right .bx.ten {
+    position: relative;
+    top: 0;
+    transition: top 1s ease, right 1s ease;
+}
+
+section.ingredients-skin .container:hover .bx.ten {
+    position: relative;
+    transition: top 1 ease, left 1s ease;
+    top: -75px;
+    right: -30px;
+}   
+
+section.cosmical-renew .top-head {
+    padding-bottom: 50px;
+}
+section.feat-slider .rows {
+	padding: 50px 0 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+/*=====================
+	CIRCLE PROGRESS BAR
+======================*/
+
+.progressbar {
+	display: inline-block;
+	width: auto;
+	margin: 25px 0;
+}
+.circle {
+	width: 180px;
+	height: 180px;
+	margin: 0 auto;
+	margin-top: 10px;
+	display: inline-block;
+	position: relative;
+	text-align: center;
+}
+.circle:after {
+	width: 120px;
+	height: 120px;
+	content: "";
+	border: 0px solid #fb4f14;
+	border-radius: 50%;
+	display: block;
+	position: absolute;
+	top: 30px;
+	left: 30px;
+}
+
+.circle canvas {
+	vertical-align: middle;
+	border: 0px solid #fb4f14;
+	border-radius: 50%;
+}
+
+.circle div {
+	position: absolute;
+	top: 50%;
+    left: 50%;
+    margin: -20px 0 0 -86px;
+    width: 100%;
+    text-align: center;
+    line-height: 40px;
+    font-family: 'Geist';
+    font-size: 32px;
+    font-weight: 600;	
+}
+.circle strong i {
+	font-style: normal;
+	font-size: 0.6em;
+	font-weight: normal;
+}
+.circle span {
+	display: block;
+	color: white;
+	margin-top: 12px;
+}
+
+
+section.cosmical-renew-sec {}
+
+section.cosmical-renew-sec .top-head.pos {
+    position: absolute;
+    top: 20px;
+    color: #fff;
+    left: 40px;
+}
+
+section.cosmical-renew-sec .container {
+    position: relative;
+}
+
+section.cosmical-renew-sec .top-head.pos h2 {
+    color: #fff;
+    font-size: 50px;
+    margin: 0;
+}
+
+section.cosmical-renew-sec .top-head.pos p.o {
+    margin: 0;
+    font-size: 18px;
+}
+
+section.cosmical-renew-sec .top-head.pos p.t {
+    font-weight: 100;
+    font-size: 18px;
+}
+
+.anc-btn {}
+
+.anc-btn a {
+    display: inline-block;
+    background: #D50E0E;
+    padding: 10px 22px;
+    color: #fff;
+    text-decoration: none;
+    font-family: lato;
+    border-radius: 8px;
+}
+
+section.cosmical-renew-sec .image img {
+    border-radius: 14px;
+}
+
+section.cosmical-renew-sec .btm-content.pos {
+    position: absolute;
+    bottom: 60px;
+    right: 200px;
+    width: 57%;
+    display: flex;
+    justify-content: space-between;
+}
+
+section.cosmical-renew-sec .btm-content.pos img.two {
+    position: relative;
+    top: 10px;
+    right: -30px;
+}
+
+section.simple-steps {}
+
+section.simple-steps .top-head {
+    padding-bottom: 50px;
+}
+
+section.simple-steps .top-head .box {}
+
+section.simple-steps .box {
+    border: 1px solid #F5F5F5;
+    padding: 12px;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+section.simple-steps .box .image {
+    position: relative;
+}
+
+section.simple-steps .box .image label {
+    position: absolute;
+    top: -12px;
+    left: -12px;
+    background: #F8402E;
+    color: #fff;
+    padding: 7px 13px;
+    border-bottom-right-radius: 12px;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+section.simple-steps .box  .info {
+    padding-top: 13px;
+}
+
+section.simple-steps .box .info h3 {
+    font-size: 20px;
+    font-family: 'Geist';
+    font-weight: 500;
+    margin: 0 0 5px 0;
+}
+
+section.simple-steps .box .info p {
+    margin: 0;
+    font-size: 15px;
+}
+
+/* horizontal scroll */
+
+#horizontal-scoll {
+  
+}
+
+.horizontal-scoll-wrapper {
+  overflow: hidden;
+  
+}
+
+.horizontal {
+  display: flex;
+  height: 100%;
+}
+
+
+
+
+
+
+
+/****** Edited ******/
+.button,
+.button--primary {
+  background-color: #e00000; /* Red */
+  color: #ffffff;            /* White text */
+  border: none;
+  border-radius: 12px;        /* Rounded corners */
+  padding: 10px 20px;
+  font-weight: 600;
+  transition: background-color 0.2s ease;
+}
+
+.button:hover,
+.button--primary:hover {
+  background-color: #c70000; /* Darker red on hover */
+}
+
+
+.footer__content-bottom-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap; /* good for responsive stacking on mobile */
+}
+
+.footer_social_icon {
+  margin-left: auto;
+}
+
+@media screen and (max-width: 1450px) {   
+	section.cosmical-renew-sec .btm-content.pos {    
+		bottom: 50px;
+		right: 85px;    
+    }
+	section.cosmical-renew-sec .btm-content.pos img.two {		
+		right: -10px;
+	}
+}
+@media screen and (max-width: 749px) {
+  .footer__content-bottom-wrapper {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .footer_social_icon {
+    margin: 10px 0 0;
+  }
+}
+
