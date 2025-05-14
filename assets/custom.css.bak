@@ -515,6 +515,9 @@ section.simple-steps .box .info p {
 		bottom: 50px;
 		right: 85px;    
     }
+	section.cosmical-renew-sec .btm-content.pos img.two {		
+		right: -10px;
+	}
 }
 @media screen and (max-width: 749px) {
   .footer__content-bottom-wrapper {

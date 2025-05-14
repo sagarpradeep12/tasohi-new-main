@@ -45,8 +45,9 @@ section.makes-cosmical .bx h4 {
     margin: 0 0 5px 0;
 }
 
-section.makes-cosmical .bx .image img {
+section.makes-cosmical .bx.card .image img {
     border-radius: 14px;
+    width: 100%;
 }
 
 section.ingredients-skin {

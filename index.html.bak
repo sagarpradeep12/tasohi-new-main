@@ -30,7 +30,7 @@
 						<p>Scientifically advanced formula that helps boost collagen and restore skin barrier function.</p>
 					</div>
 					<div class="image">
-						<img src="assets/com-img.jpg" class="img-fluid" />
+						<img src="assets/com-img1.jpg" class="img-fluid" />
 					</div>
 				</div>
 			</div>
@@ -41,7 +41,7 @@
 						<p>Scientifically advanced formula that helps boost collagen and restore skin barrier function.</p>
 					</div>
 					<div class="image">
-						<img src="assets/com-img.jpg" class="img-fluid" />
+						<img src="assets/com-img2.jpg" class="img-fluid" />
 					</div>
 				</div>
 			</div>
@@ -52,7 +52,7 @@
 						<p>Scientifically advanced formula that helps boost collagen and restore skin barrier function.</p>
 					</div>
 					<div class="image">
-						<img src="assets/com-img.jpg" class="img-fluid" />
+						<img src="assets/com-img3.jpg" class="img-fluid" />
 					</div>
 				</div>
 			</div>
@@ -63,7 +63,7 @@
 						<p>Scientifically advanced formula that helps boost collagen and restore skin barrier function.</p>
 					</div>
 					<div class="image">
-						<img src="assets/com-img.jpg" class="img-fluid" />
+						<img src="assets/com-img4.jpg" class="img-fluid" />
 					</div>
 				</div>
 			</div>
@@ -74,7 +74,7 @@
 						<p>Scientifically advanced formula that helps boost collagen and restore skin barrier function.</p>
 					</div>
 					<div class="image">
-						<img src="assets/com-img.jpg" class="img-fluid" />
+						<img src="assets/com-img5.jpg" class="img-fluid" />
 					</div>
 				</div>
 			</div>
@@ -85,7 +85,7 @@
 						<p>Scientifically advanced formula that helps boost collagen and restore skin barrier function.</p>
 					</div>
 					<div class="image">
-						<img src="assets/com-img.jpg" class="img-fluid" />
+						<img src="assets/com-img6.jpg" class="img-fluid" />
 					</div>
 				</div>
 			</div>
@@ -238,8 +238,7 @@
 			
 			<div class="row">
 				<div class="col-sm-3">
-				<div class="box">
-				
+				<div class="box">				
 				<div class="image"><label>Step 1</label><img src="assets/step1-img.jpg" class="round-img img-fluid" alt="">
 				</div>  
 				<div class="info">
@@ -251,35 +250,29 @@
 				</div>
 				<div class="col-sm-3">
 				<div class="box">
-				<a href="#">
 				<div class="image"><label>Step 2</label><img src="assets/step2-img.jpg" class="round-img img-fluid" alt=""></div>  
 				<div class="info">
 				  <h3>Apply</h3>     
 				  <p>Take a small amount of Cosmical Renew and apply it to your face and neck, steering clear of the delicate eye area.</p>                  
 				</div> 
-				</a>
 				</div>
 				</div>
 				<div class="col-sm-3">
 				<div class="box">
-				<a href="#">
 				<div class="image"><label>Step 3</label><img src="assets/step3-img.jpg" class="round-img img-fluid" alt=""></div>  
 				<div class="info">
 				  <h3>Massage </h3>     
 				  <p>Use your fingertips to massage in upward circular motions until fully absorbed. Use daily for refreshed, radiant skin.</p>                    
 				</div> 
-				</a>
 				</div>
 				</div>
 				<div class="col-sm-3">
 				<div class="box">
-				<a href="#">
 				<div class="image"><label>Step 4</label><img src="assets/step4-img.jpg" class="round-img img-fluid" alt=""></div>  
 				<div class="info">
 				  <h3>Reveal the Glow</h3>     
 				  <p>Because everyone is beautiful — and with Cosmical Renew, that beauty rises to the surface, luminous and effortless.</p>                     
 				</div>  
-				</a>
 				</div>
 				</div>
 			</div>
