@@ -1208,6 +1208,23 @@ section.ingredients-skin .container .bx {
     padding: 10px 20px;
 }
 
+section.ingredients-skin .bx.bx-image img.cover {
+    max-width: 80%;
+}
+
+section.ingredients-skin .bx.bx-image img.ingredients-bg {
+    min-width: 320px;
+    margin: auto;
+    left: 0;
+    right: 0;
+    bottom: -10px;
+    padding: 10px 10px;
+}
+
+section.ingredients-skin .bx.bx-image img.ingredients-box {
+    max-width: 90%;
+}
+
 .footer {
     padding-top: 20px;
 }
