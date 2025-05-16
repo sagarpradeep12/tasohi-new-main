@@ -1194,6 +1194,20 @@ section.makes-cosmical .bx {
     display: block;
 }
 
+section.ingredients-skin .bx p {
+    /* color: #000; */
+    margin: 0;
+}
+
+section.ingredients-skin .bx h4 {
+    /* color: #000; */
+}
+
+section.ingredients-skin .container .bx {
+    opacity: 1;
+    padding: 10px 20px;
+}
+
 .footer {
     padding-top: 20px;
 }
