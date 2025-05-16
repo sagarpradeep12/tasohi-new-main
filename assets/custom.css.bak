@@ -1230,7 +1230,9 @@ section.cosmical-renew .top-head {
     padding-bottom: 0;
 }    
 
-
+section.blog-section.section9 {
+    padding-bottom: 0;
+}
 
 .footer {
     padding-top: 20px;
