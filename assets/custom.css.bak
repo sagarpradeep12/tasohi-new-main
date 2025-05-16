@@ -1010,24 +1010,28 @@ section.cosmical-renew.section4 .bx {
     padding: 0 50px;
 }
 
+section.cosmical-renew .top-head {
+    padding-bottom
+	
 section.cosmical-renew-sec .btm-content.pos img.one {
-    max-width: 115px;
-    height: auto;
+	max-width: 135px;
+	height: auto;
 }
 
 section.cosmical-renew-sec .btm-content.pos img.two {
-    max-width: 170px;
+	max-width: 180px;
+	right: 0;
 }
 
 section.cosmical-renew-sec .btm-content.pos {
     align-items: end;
-    width: 70%;
-    bottom: 102px;
-    /* justify-content: end; */
-    left: 50px;
-    margin: auto;
-    left: 0;
-    right: 0;
+	width: 80%;
+	bottom: 72px;
+	justify-content: space-between;
+	left: 50px;
+	margin: auto;
+	left: 0;
+	right: 0;
 }
 
 section.cosmical-renew-sec .image img {

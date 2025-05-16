@@ -1010,6 +1010,10 @@ section.cosmical-renew.section4 .bx {
     padding: 0 50px;
 }
 
+section.cosmical-renew .top-head {
+    padding-bottom: 0;
+}
+
 section.cosmical-renew-sec .btm-content.pos img.one {
 	max-width: 135px;
 	height: auto;
