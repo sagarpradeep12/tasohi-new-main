@@ -1186,6 +1186,14 @@ section.happy-customers.section7 {
     padding-top: 0;
 }
 
+section.makes-cosmical .bx {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.rows.horizontal {
+    display: block;
+}
+
 .footer {
     padding-top: 20px;
 }

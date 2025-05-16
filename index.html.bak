@@ -502,14 +502,11 @@
 	 </section>
 	 
 	 <section class="subscribe-section section10 section-space">
-		<div class="containers">
-<div class="col-sm-6 pos lefts">
-			  <div class="image"><img src="assets/b-img1.jpg" class="img-fluid l-img" alt=""></div>
-			  </div>		
-		<div class="container">	
-			
+		<div class="containers">		
 		  <div class="row ver-center">
-			  
+			  <div class="col-sm-6 pos lefts">
+			  <div class="image"><img src="assets/b-img1.jpg" class="img-fluid l-img" alt=""></div>
+			  </div>
 			<div class="col-sm-6 pos rights">
 			  <div class="info">
 				  <div class="icon">
@@ -533,7 +530,6 @@
 				  </div>
 			  </div>
 			  </div>
-		  </div>
 		  </div>
 		  </div>
 	 </section>
@@ -662,6 +658,8 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.2/circle-progress.min.js"></script>
 	
 	<script>
+	if(this.innerWidth >991){
+		
 		gsap.registerPlugin(ScrollTrigger);
 
 		let horizontalSection = document.querySelector('.horizontal');
@@ -680,6 +678,7 @@
 		  }
 		});
 		
+	}
 
 	   $(document).ready(function ($) {
 		function animateElements() {

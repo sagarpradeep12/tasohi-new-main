@@ -658,6 +658,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.2/circle-progress.min.js"></script>
 	
 	<script>
+	if(this.innerWidth >991){		
 		gsap.registerPlugin(ScrollTrigger);
 
 		let horizontalSection = document.querySelector('.horizontal');
@@ -676,6 +677,7 @@
 		  }
 		});
 		
+	}
 
 	   $(document).ready(function ($) {
 		function animateElements() {

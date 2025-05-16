@@ -1048,6 +1048,15 @@ section.cosmical-renew-sec .top-head.pos p.t {
     margin-bottom: 10px;
 }
 
+section.cosmical-renew-sec .top-head.pos {
+    left: 15px;
+    padding: 20px;
+    box-sizing: border-box;
+    width: 90%;
+    right: 0;
+    top: 0;
+}
+
 .anc-btn a {
     padding: 6px 16px;
     border-radius: 5px;
@@ -1175,6 +1184,10 @@ section.happy-customers .col-3 .bx.two {
 
 section.happy-customers.section7 {
     padding-top: 0;
+}
+
+.rows.horizontal {
+    display: block;
 }
 
 .footer {
