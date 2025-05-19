@@ -4,6 +4,7 @@ body {
 }
 p {
 	letter-spacing: -0.5px;
+	font-size: 18px;
 }
 section.section-space {
     padding: 60px 0;
@@ -214,6 +215,7 @@ section.cosmical-renew-sec .top-head.pos h2 {
 section.cosmical-renew-sec .top-head.pos p.o {
     margin: 0;
     font-size: 18px;
+	padding: 7px 0;
 }
 
 section.cosmical-renew-sec .top-head.pos p.t {
@@ -536,9 +538,7 @@ section.subscribe-section.section11 .cta-btn a.outline {
 .footer .container-fluid .first {
     padding-left: 0px;
 }
-body .container, .footer .container {
-    max-width: 1440px;
-}
+
 .footer .wraper h6 {
     color: #000;
     font-family: "Cambria";
@@ -725,8 +725,71 @@ body .container, .footer .container {
   height: 100%;
 }
 
+section.subscribe-section .quotes {}
 
+section.subscribe-section .quotes .inn p {
+    font-size: 25px;
+    font-style: italic;
+    font-family: 'Geist';
+}
 
+section.about-section.section1 {
+	position: relative;
+}
+
+section.about-section.section1 .container h2 span {
+    font-size: 80px;
+}
+
+section.about-section.section1 .top-head p i {
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+section.about-section.section1 .top-head p {
+    font-size: 22px;
+}
+
+section.about-section.section1 .container {
+    position: absolute;
+    top: 0;
+    margin: auto;
+    left: 0;
+    right: 0;
+    height: 100%;
+}
+
+section.about-section.section1 .container .ver-center {
+    height: 100%;
+}
+
+section.about-section.section2.section-space {}
+
+section.about-section.section2.section-space .container > .row.ver-center {
+    max-width: 800px;
+    margin: auto;
+}
+
+section.value-section.about-section.section3 .info .top-head p,
+section.vision-section.about-section.section4 .info .top-head p,
+section.mission-section.about-section.section5 .info .top-head p {
+    font-size: 18px;
+}
+
+section.value-section.about-section.section3 .image .round,
+section.vision-section.about-section.section4 .image .round,
+section.mission-section.about-section.section5 .image .round {
+    border-radius: 12px;
+}
+
+section.value-section.about-section.section3 .info, 
+section.mission-section.about-section.section5 .info {
+    padding-right: 70px;
+}
+
+section.vision-section.about-section.section4 .info {
+    padding-left: 30px;
+}
 
 
 
@@ -925,6 +988,10 @@ section.ingredients-skin .container:hover .bx.five {
 		top: -75px;
 		right: -30px;
 	}   
+}
+@media screen and (max-width: 1401px) {	body .container, .footer .container {
+		max-width: 1320px;
+	}
 }
 @media screen and (min-width: 1550px) {
 	section.subscribe-section.section11 .rights .info {
@@ -1232,6 +1299,53 @@ section.cosmical-renew .top-head {
 
 section.blog-section.section9 {
     padding-bottom: 0;
+}
+
+section.about-section.section1 .image img.img-fluid {
+    height: 270px;
+    object-fit: cover;
+    object-position: right;
+}
+
+section.about-section.section1 .top-head h2 {font-size: 24px;}
+
+section.about-section.section1 .container h2 span {
+    font-size: 35px;
+}
+
+section.about-section.section1 .top-head {}
+
+section.about-section.section1 .container {
+    height: auto;
+    top: 5%;
+}
+
+section.about-section.section1 .top-head p i {
+    font-size: 20px;
+    display: block;
+    padding: 0;
+}
+
+section.about-section.section1 .top-head p {
+    font-size: 18px;
+}
+
+section.vision-section.about-section {
+    padding: 0;
+}
+
+section.vision-section.about-section .row.ver-center {
+    flex-direction: column-reverse;
+}
+
+section.vision-section.about-section.section4 .info {padding: 0;}
+
+section.value-section.about-section.section3 .info .top-head p, section.vision-section.about-section.section4 .info .top-head p, section.mission-section.about-section.section5 .info .top-head p {
+    font-size: 17px;
+}
+
+section.value-section.about-section.section3 .info, section.mission-section.about-section.section5 .info {
+    padding: 0;
 }
 
 .footer {

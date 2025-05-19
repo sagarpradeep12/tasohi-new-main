@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About</title>
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/base.css">
+  <link rel="stylesheet" href="assets/custom.css">
+  
+  </head>
+  
+	 	
+<body>
+	
+	
+	 
+	 <section class="subscribe-section inner about-section section1 section-spacee">
+		<div class="images"><img src="assets/about-banner.jpg" class="img-fluid" /></div>
+		<div class="container">		
+		  <div class="row ver-center">			  
+			<div class="col-sm-6 pos">
+			  <div class="info">				  
+				  <div class="top-head">
+					<h2>Hi, we’are <span>TASOHI</span></h2>
+					  <p>Welcome to our world, where <i>Everyone is Beautiful</i> </p>					  
+				  </div>
+			  </div>
+			  </div>
+			  
+		  </div>
+		  </div>
+	 </section>
+	 
+	 <section class="content-section about-section section2 section-space">
+		<div class="container">		
+		  <div class="row ver-center">			  
+			<div class="col-sm-12">
+			  <div class="info text-center">				  
+				  <p>Derived from word TASHI which has different meaning in different languages: Beauty, Bliss, Reflection, Blessing, A Guardian Angel, Prosperity. It’s not just about Looking beautiful, but Feeling beautiful.</p>
+				  <p>We believe beauty isn’t just about how you look, It's a feeling, a reflection and a blessing. Rooted in the essence of the word TASHI, which symbolizes beauty, bliss, prosperity, and protection across cultures, TASOHI is a luxury beauty and personal care brand committed to helping you feel confident, radiant, and truly seen.</p>
+				  <p>We create safe, effective, and luxurious formulations using the finest ingredients from around the world—so you can pamper your skin and uplift your spirit, every single day.</p>
+				  </p>Because at TASOHI, it’s not just about looking beautiful—it’s about feeling beautiful.</p>
+			  </div>
+			  </div>
+			  
+		  </div>
+		  </div>
+	 </section>
+	 
+	 <section class="value-section about-section section3 section-space">
+		<div class="container">		
+		  <div class="row ver-center">
+			  
+			<div class="col-sm-6 pos rights">
+			  <div class="info">				  
+				  <div class="top-head">
+					<h2>Our Values</h2>
+					  <p>We will identify consumer issues, their unsolved desires, then will craft products which 
+					  matched their desires and aspirations with globally best ingredients to create an attitude for them to flaunt </p>					  
+				  </div>
+			  </div>
+			  </div>
+			  <div class="col-sm-6 pos lefts">
+			  <div class="image"><img src="assets/about-img1.jpg" class="img-fluid l-img round" alt=""></div>
+			  </div>
+		  </div>
+		  </div>
+	 </section>
+	 
+	 <section class="vision-section about-section section4 section-space">
+		<div class="container">		
+		  <div class="row ver-center">
+			  <div class="col-sm-6 pos lefts">
+			  <div class="image"><img src="assets/about-img2.jpg" class="img-fluid l-img round" alt=""></div>
+			  </div>
+			<div class="col-sm-6 pos rights">
+			  <div class="info">				  
+				  <div class="top-head">
+					<h2>Our Vision</h2>
+					  <p>Make people glamorous and provide solution for all beauty issues with tested, reliable and effective formulations </p>					  
+				  </div>
+			  </div>
+			  </div>
+		  </div>
+		  </div>
+	 </section>
+	 
+	<section class="mission-section about-section section5 section-space">
+		<div class="container">		
+		  <div class="row ver-center">
+			  
+			<div class="col-sm-6 pos rights">
+			  <div class="info">				  
+				  <div class="top-head">
+					<h2>Our Mission</h2>
+					  <p>Provide world class products, which are sustainable, safe and gentle to mankind” 
+(no animal cruelty, biodegradable and harsh chemicals) </p>					  
+				  </div>
+			  </div>
+			  </div>
+			  <div class="col-sm-6 pos lefts">
+			  <div class="image"><img src="assets/about-img2.jpg" class="img-fluid l-img round" alt=""></div>
+			  </div>
+		  </div>
+		  </div>
+	 </section>	
+	
+	<section class="insta-feeds section8 section-space">
+		<div class="container">
+			<div class="top-head">
+				<h2>Tasohi</h2>
+				<p>on Instagram</p>
+			</div>
+			
+			<div class="row space-btm">
+				<div class="col-sm-3">
+					<div class="box">
+					<a href="#">
+					<div class="image"><img src="assets/insta-feedimg1.jpg" class="round-img img-fluid" alt="">
+					</div>  
+					</a>
+					</div>
+				</div>
+				<div class="col-sm-3">
+					<div class="box">
+					<a href="#">
+					<div class="image"><img src="assets/insta-feedimg2.jpg" class="round-img img-fluid" alt="">
+					</div>  
+					</a>					
+					</div>				
+				</div>
+				<div class="col-sm-3">
+				<div class="box">
+					<a href="#">
+					<div class="image"><img src="assets/insta-feedimg3.jpg" class="round-img img-fluid" alt="">
+					</div>  
+					</a>					
+				</div>
+				</div>
+				<div class="col-sm-3">
+				<div class="box">
+					<a href="#">
+					<div class="image"><img src="assets/insta-feedimg4.jpg" class="round-img img-fluid" alt="">
+					</div>  
+					</a>
+				</div>
+				</div>
+			</div>
+			
+			<div class="cta-btn text-center">
+			<a href="#">
+			Follow Us On
+			<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" fill="none">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11 2.2002C8.61026 2.2002 8.31051 2.21028 7.37185 2.25336C6.43501 2.29553 5.79518 2.44495 5.23601 2.6622C4.64896 2.8831 4.11715 3.2294 3.67768 3.67695C3.22983 4.11635 2.88322 4.64815 2.66201 5.23528C2.44476 5.79536 2.29535 6.43611 2.25318 7.37203C2.20918 8.31069 2.20001 8.60953 2.20001 11.0002C2.20001 13.3899 2.2101 13.6897 2.25318 14.6284C2.29535 15.5652 2.44476 16.205 2.66201 16.7642C2.88295 17.3512 3.22924 17.883 3.67676 18.3225C4.16626 18.8129 4.6576 19.1136 5.2351 19.3382C5.79518 19.5554 6.43501 19.7049 7.37093 19.747C8.31051 19.7901 8.61026 19.8002 11 19.8002C13.3898 19.8002 13.6895 19.7901 14.6282 19.747C15.565 19.7049 16.2048 19.5554 16.764 19.3382C17.3511 19.1173 17.8829 18.771 18.3223 18.3234C18.7702 17.884 19.1168 17.3522 19.338 16.7651C19.5553 16.205 19.7047 15.5643 19.7468 14.6293C19.7899 13.6897 19.8 13.3899 19.8 11.0002C19.8 8.61045 19.7899 8.31069 19.7468 7.37203C19.7038 6.43519 19.5553 5.79536 19.338 5.2362C19.1171 4.64915 18.7708 4.11736 18.3233 3.67786C17.8839 3.22999 17.3521 2.88337 16.7649 2.6622C16.2048 2.44495 15.5641 2.29553 14.6282 2.25336C13.6895 2.20936 13.3907 2.2002 11 2.2002ZM11 3.78603C13.3494 3.78603 13.6281 3.79519 14.5567 3.83736C15.4138 3.87586 15.8794 4.01978 16.1902 4.13986C16.6008 4.29936 16.8942 4.49003 17.2022 4.79803C17.5102 5.10603 17.7008 5.39936 17.8603 5.81003C17.9804 6.11986 18.1234 6.58645 18.1628 7.44445C18.205 8.37211 18.2142 8.65078 18.2142 11.0002C18.2142 13.3496 18.205 13.6283 18.1628 14.5569C18.1234 15.4139 17.9804 15.8805 17.8603 16.1904C17.7191 16.5727 17.4939 16.9185 17.2013 17.2024C16.9176 17.4945 16.5721 17.7194 16.1902 17.8605C15.8794 17.9806 15.4138 18.1245 14.5558 18.163C13.6281 18.2052 13.3494 18.2144 10.9991 18.2144C8.64968 18.2144 8.37193 18.2052 7.44426 18.163C6.58626 18.1245 6.11968 17.9806 5.80985 17.8605C5.42757 17.7195 5.08175 17.4946 4.79785 17.2024C4.50559 16.9185 4.28068 16.5726 4.13968 16.1904C4.0196 15.8805 3.87568 15.4139 3.83718 14.5559C3.7941 13.6283 3.78585 13.3496 3.78585 11.0002C3.78585 8.65078 3.79501 8.37211 3.83718 7.44353C3.87568 6.58644 4.0196 6.12078 4.13968 5.81003C4.29918 5.39936 4.48985 5.10603 4.79785 4.79803C5.08175 4.50577 5.42757 4.28087 5.80985 4.13986C6.11968 4.01978 6.58626 3.87586 7.44426 3.83736C8.37193 3.79519 8.6506 3.78603 11 3.78603ZM11 13.9335C10.222 13.9335 9.47594 13.6245 8.92583 13.0744C8.37572 12.5243 8.06668 11.7782 8.06668 11.0002C8.06668 10.2222 8.37572 9.47612 8.92583 8.92601C9.47594 8.37591 10.222 8.06686 11 8.06686C11.778 8.06686 12.5241 8.37591 13.0742 8.92601C13.6243 9.47612 13.9333 10.2222 13.9333 11.0002C13.9333 11.7782 13.6243 12.5243 13.0742 13.0744C12.5241 13.6245 11.778 13.9335 11 13.9335ZM11 6.48103C10.4065 6.48103 9.81889 6.59792 9.2706 6.82503C8.72231 7.05214 8.22412 7.38502 7.80448 7.80466C7.38484 8.22431 7.05196 8.72249 6.82485 9.27078C6.59774 9.81908 6.48084 10.4067 6.48084 11.0002C6.48084 11.5937 6.59774 12.1813 6.82485 12.7296C7.05196 13.2779 7.38484 13.7761 7.80448 14.1957C8.22412 14.6154 8.72231 14.9483 9.2706 15.1754C9.81889 15.4025 10.4065 15.5194 11 15.5194C12.1986 15.5194 13.348 15.0432 14.1955 14.1957C15.0431 13.3482 15.5192 12.1988 15.5192 11.0002C15.5192 9.80164 15.0431 8.65217 14.1955 7.80466C13.348 6.95715 12.1986 6.48103 11 6.48103ZM16.753 6.30319C16.753 6.58326 16.6418 6.85186 16.4437 7.0499C16.2457 7.24794 15.9771 7.35919 15.697 7.35919C15.4169 7.35919 15.1483 7.24794 14.9503 7.0499C14.7523 6.85186 14.641 6.58326 14.641 6.30319C14.641 6.02313 14.7523 5.75453 14.9503 5.55649C15.1483 5.35845 15.4169 5.2472 15.697 5.2472C15.9771 5.2472 16.2457 5.35845 16.4437 5.55649C16.6418 5.75453 16.753 6.02313 16.753 6.30319Z" fill="white"/>
+</svg>
+			</a>
+			</div>
+			
+		</div>
+	 </section>
+	 
+	 <div class="footer">
+  <div class="container-fluid">
+    <div class="container">
+                    
+      <div class="row top-ft">
+          <div class="col-sm-8">
+              <div class="row">
+                  <div class="first col-lg-4 col-md-6 col-sm-12">
+                      <div class="wraper">
+                        <h6>Quick Links</h6>
+                        <ul>
+                          <li><a href="#!">About Us</a></li>
+                          <li><a href="#!">Products</a></li>
+                          <li><a href="#!">Contact</a></li>
+                          <li><a href="#!">Share your Feedback</a></li>
+                        </ul>
+                      </div>
+                    </div>
+            
+                    <div class="second col-lg-4 col-md-6 col-sm-12">
+                      <div class="wraper">
+                        <h6>Resources</h6>
+                        <ul>
+                          <li><a href="#!">Blogs</a></li>
+                          <li><a href="#!">Testimonials</a></li>
+                          <li><a href="#!">Active Ingredients</a></li>
+                         
+                        </ul>
+                      </div>
+                    </div>
+            
+                    <div class="third col-lg-4 col-md-6 col-sm-12">
+                      <div class="wraper">
+                        <h6>How Can We Help You</h6>
+                        <ul>
+                          <li><a href="#!">FAQ</a></li>
+                          <li><a href="#!">Refund And Cancellation Policy</a></li>
+                          <li><a href="#!">Terms & Conditions</a></li>
+                          <li><a href="#!">Privacy Policy</a></li>
+                          <li><a href="#!">Shipping Policy</a></li>
+                        </ul>
+                      </div>
+                    </div>
+              </div>
+          </div>
+          <div class="fourth col-sm-4">
+              <div class="wraper">
+                <h6>About</h6>
+                <div class="abt">
+                    <p>Rooted in the essence of the word TASHI, which symbolizes beauty, bliss, prosperity, and protection across cultures, TASOHI is a luxury beauty and personal care brand committed to helping you feel confident, radiant, and truly seen.</p>
+                </div>
+              </div>
+          </div>
+        
+      </div>
+      
+      <div class="row center-ft text-center">
+        <div class="col-sm-12">
+              <div class="img-wraper text-center">
+              <img src="assets/footer-logo.png" class="img-fluid" alt="logo">
+            </div>
+          </div>
+        </div>     
+        
+    </div>
+  </div>
+    
+    
+      <div class="footer-btm-mid">
+		<div class="container containers">
+		<div class="footer-mid-right">  
+		<div class="footer-bottom"><h6>© 2025 - TASOHI. All rights reserved</h6></div>		</div>
+		<div class="footer-mid-left">
+		<ul>
+		<li><a href="#"><img src="assets/sc-icon1.png"> </a></li>
+		<li><a href="#"><img src="assets/sc-icon2.png"> </a></li>
+		<li><a href="#"><img src="assets/sc-icon3.png"> </a></li>
+		<li><a href="#"><img src="assets/sc-icon4.png"> </a></li>
+		</ul>
+        </div>
+        </div>
+        </div>
+        
+ </div>
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.2/circle-progress.min.js"></script>
+	
+	<script>
+	if(this.innerWidth >991){		
+		gsap.registerPlugin(ScrollTrigger);
+
+		let horizontalSection = document.querySelector('.horizontal');
+		//console.log(horizontalSection.scrollWidth);
+
+		gsap.to('.horizontal', {
+		  x: () => horizontalSection.scrollWidth * -1,
+		  xPercent: 100,
+		  scrollTrigger: {
+			trigger: '.horizontal',
+			start: 'center center',
+			end: '+=2000px',
+			pin: '#horizontal-scoll',
+			scrub: true,
+			invalidateOnRefresh: true
+		  }
+		});
+		
+	}
+
+	   $(document).ready(function ($) {
+		function animateElements() {
+			$('.progressbar').each(function () {
+				var elementPos = $(this).offset().top;
+				var topOfWindow = $(window).scrollTop();
+				var percent = $(this).find('.circle').attr('data-percent');
+				var percentage = parseInt(percent, 10) / parseInt(100, 10);
+				var animate = $(this).data('animate');
+				if (elementPos < topOfWindow + $(window).height() - 30 && !animate) {
+					$(this).data('animate', true);
+					$(this).find('.circle').circleProgress({
+						startAngle: -Math.PI / 2,
+						value: percent / 100,
+						size: 170,
+						thickness: 10,
+						emptyFill: "rgba(255,239,239, 1)",
+						fill: {
+							color: '#b71b0c'							
+						}
+					}).on('circle-animation-progress', function (event, progress, stepValue) {
+						$(this).find('div').text((stepValue*100).toFixed(0) + "%");
+					}).stop();
+				}
+			});
+		}
+
+		// Show animated elements
+		animateElements();
+		$(window).scroll(animateElements);
+		
+		
+		
+
+	}); //end document ready function
+	</script>
+	
+</body>
+</html>
