@@ -17,6 +17,11 @@
 <body>
 	<section class="hero-banner-section">
 		<div class="banner-image"><img src="assets/home-banner.jpg" class="img-fluid" /></div>
+		<picture>
+  <source media="(min-width:650px)" srcset="img_pink_flowers.jpg">
+  <source media="(min-width:465px)" srcset="img_white_flower.jpg">
+  <img src="img_orange_flowers.jpg" alt="Flowers" style="width:auto;">
+</picture>
 		<div class="container">
 		<div class="row">
 		<div class="col-sm-6">
@@ -29,12 +34,30 @@
 					Order Today 					
 				  </a>				
 			  </div>
-			  </div>
+			</div>
 		</div>
 		</div>
 		</div>
 		</div>
 	</section>
+	
+	<section class="hero-banner">
+  <div class="hero-container">
+    <div class="hero-text">
+      <h1>Reveal Radiance with<br>Cosmical Renew</h1>
+      <p>
+        Powered by CutiGuard CLRTM, Collagen boosting complex, and nature’s finest
+        botanicals experience deep hydration, youthful radiance and skin resilience with
+        every drop.
+      </p>
+      <a href="#" class="cta-button">Order Today</a>
+    </div>
+    <div class="hero-image">
+      <img src="assets/home-banner.jpg" alt="TASOHI Product Image" />
+    </div>
+  </div>
+</section>
+	
 	<section class="makes-cosmical section1 section-space" id="horizontal-scoll">
 		<div class="containers">
 		<div class="top-head text-center">

@@ -528,8 +528,13 @@ section.subscribe-section.section11 .cta-btn a.outline {
     margin-left: 10px;
 }
 
-section.hero-banner-section {
-    position: relative;
+.hero-banner-section {
+  position: relative;
+  width: 100%;
+  height: 100vh; /* Full screen height */
+  overflow: hidden;
+  display: flex;
+  align-items: center;
 }
 
 section.hero-banner-section .container {
@@ -549,6 +554,70 @@ section.hero-banner-section .container .row {
 section.hero-banner-section .top-head h2 {
     line-height: 120%;
 }
+
+.hero-banner {
+  width: 100%;
+  background: #fff;
+  padding: 60px 20px;
+  box-sizing: border-box;
+}
+
+.hero-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.hero-text {
+  flex: 1;
+  min-width: 300px;
+}
+
+.hero-text h1 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+  line-height: 1.3;
+}
+
+.hero-text p {
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 30px;
+  max-width: 500px;
+}
+
+.cta-button {
+  background-color: #d50000;
+  color: #fff;
+  padding: 12px 24px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #b30000;
+}
+
+.hero-image {
+  flex: 1;
+  min-width: 300px;
+  text-align: center;
+}
+
+.hero-image img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
 
 .footer {
     width: 100%;
